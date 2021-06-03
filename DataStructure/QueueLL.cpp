@@ -1,0 +1,6 @@
+/*
+enqueue();
+dequeue();
+front();
+isEmpty();
+*/
